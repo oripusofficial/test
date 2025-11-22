@@ -189,7 +189,7 @@ export default function Home() {
       </div>
 
       <div className="container mx-auto mb-16">
-        <div className="bg-teal-50 text-3xl text-teal-800 font-primary font-bold text-center py-16 border-2 border-teal-800">বাকি Website টি বানানোর কাজ চলছে। </div>
+        <div className="bg-teal-50 text-3xl text-red-800 font-primary font-bold text-center py-16 border-2 border-teal-800">বাকি Website টি বানানোর কাজ চলছে। </div>
       </div>
       {/* Hello */}
 
